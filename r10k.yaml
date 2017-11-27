@@ -1,0 +1,5 @@
+---
+  :sources:
+    puppet:
+      basedir: /usr/local/etc/puppet/environments
+      remote: git://github.com/igalic/iocage-puppet-nginx.git
